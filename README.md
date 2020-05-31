@@ -3,7 +3,7 @@
 This repo is a main place to keep track of things I want to work on and store in github. Mainly for learning and POC purposes. I have every intention of doing all these things.
 
 * icmp rootkit that allows pilfering data and knocking for a shell targeting linux and freebsd. I love the idea of leveraging icmp and it would help me get rolling in hacking kernels.
-    * PoCs: https://github.com/sogwtf/Diamorphine https://github.com/sogwtf/freebsd-rootkit https://github.com/sogwtf/Diamorphine 
+    * PoCs: https://github.com/silaspsadia/mischief https://github.com/m0nad/Diamorphine https://github.com/ljcusack/freebsd-rootkit
     * Books: "Designing BSD Rootkits" from NoStarchPress
 * software for nanopi r1, that allows it to be a transparent ethernet cable plant. mainly for pilfering data, hoping to find creds. It should apply multiple measures to remain invisible, which I'm not entirely sure of yet, but I thinking it should at least change the mac address to masquerade as the original machine. (a)-(b) -> (a)-(b:nanopi r1:a)-(b). 
     * possibly check out https://github.com/bettercap/bettercap
