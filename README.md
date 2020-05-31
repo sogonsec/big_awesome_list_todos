@@ -2,6 +2,8 @@
 
 This repo is a main place to keep track of things I want to work on and store in github. Mainly for learning and POC purposes. I have every intention of doing all these things.
 
+---
+
 * icmp rootkit that allows pilfering data and knocking for a shell targeting linux and freebsd. I love the idea of leveraging icmp and it would help me get rolling in hacking kernels.
     * PoCs: https://github.com/silaspsadia/mischief https://github.com/m0nad/Diamorphine https://github.com/ljcusack/freebsd-rootkit
     * Books: "Designing BSD Rootkits" from NoStarchPress
