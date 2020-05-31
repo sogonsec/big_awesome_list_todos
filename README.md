@@ -10,4 +10,4 @@ This repo is a main place to keep track of things I want to work on and store in
 * write a command and control client and server in C and python, possibly with a with an irc bot?! 
 * write N-day exploits, not for all that sweet N-day glory but to figure out the problem and write it, should be a good learning experience
 * training course for hacking stuff? That's a big one, probably shouldn't be in here.
-* rogue canary plant
+* rogue "canary" plant, but instead of raising alarms, steal creds and ship them off to a remote location. 
