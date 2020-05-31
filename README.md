@@ -10,6 +10,7 @@ This repo is a main place to keep track of things I want to work on and store in
 
 * software for nanopi r1, that allows it to be a transparent ethernet cable plant. mainly for pilfering data, hoping to find creds. It should apply multiple measures to remain invisible, which I'm not entirely sure of yet, but I thinking it should at least change the mac address to masquerade as the original machine. (a)-(b) -> (a)-(b:nanopi r1:a)-(b). 
     * possibly check out https://github.com/bettercap/bettercap
+    * also get a label maker, for that "DO NOT REMOTE" label adding a touch of realism
 
 * provisioning to create labs in vmware, done as automatically as possible
 
