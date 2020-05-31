@@ -13,7 +13,15 @@ This repo is a main place to keep track of things I want to work on and store in
 
 * provisioning to create labs in vmware, done as automatically as possible
 
-* slide decks for presentations: embracing being a scrub, learning from failure, learning to shut up and listen and actually learn things from other humans, buffer overflows, reverse engineering with ghidra, reverse engineering and binary exploitation with radare2, using gef+gdb, writing scripts for radare2. teaching others is a good way to prove you learned stuff, also teaching stuff is rewarding for its own sake.
+* slide decks for presentations (teaching others is a good way to prove you learned stuff, also teaching stuff is rewarding for its own sake):
+    * embracing being a scrub
+    * learning from failure
+    * learning to shut up and listen and actually learn things from other humans
+    * buffer overflows
+    * reverse engineering with ghidra
+    * reverse engineering and binary exploitation with radare2
+    * using gef+gdb
+    * writing scripts for radare2
 
 * get gud with c, write a personal port of "blackhat python"/"blackhat go" (nostarchpress) but for c
 
