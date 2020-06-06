@@ -23,6 +23,11 @@ This repo is a main place to keep track of things I want to work on and store in
     * reverse engineering and binary exploitation with radare2
     * using gef+gdb
     * writing scripts for radare2
+    * teaching how to hack into machines
+    * teaching how to hack into AD
+    * teaching how to hack into AWS
+    * teaching how to hack into Azure AD
+    * attacking application supply chains
 
 * get gud with c, write a personal port of "blackhat python"/"blackhat go" (nostarchpress) but for c
 
