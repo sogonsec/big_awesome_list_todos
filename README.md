@@ -28,6 +28,7 @@ This repo is a main place to keep track of things I want to work on and store in
     * teaching how to hack into AWS
     * teaching how to hack into Azure AD
     * attacking application supply chains
+    * how to welcome new hacking friends into the fold and help them out, everyone is welcome, there's no special handshake (if there is, I don't know it)
 
 * get gud with c, write a personal port of "blackhat python"/"blackhat go" (nostarchpress) but for c
 
