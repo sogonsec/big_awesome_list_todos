@@ -39,3 +39,8 @@ This repo is a main place to keep track of things I want to work on and store in
 * training course for hacking stuff? That's a big one, probably shouldn't be in here. teaching stuff, etc.
 
 * rogue "canary" plant, but instead of raising alarms, steal creds and ship them off to a remote location. Also delete all trace of transfer as much as possible (delete transfer info/logs... possible secure delete/erase the device/sd card, be sure be mindful of cached data in ram or other buffers)
+
+* do writeups:
+    * SQLi basics, mainly stuff used in CTF challenges/competitions
+    * XSS basics, mainly stuff used in CTF challenges/competitions
+    * VulnHub series (VMs that are from the same author and collection, like digitalworld.local) walkthroughs and pentest report example
