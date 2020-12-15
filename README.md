@@ -31,9 +31,10 @@ This repo is a main place to keep track of things I want to work on and store in
     * how to welcome new hacking friends into the fold and help them out, everyone is welcome, there's no special handshake (if there is, I don't know it)
 
 * get gud with c, write a personal port of "blackhat python"/"blackhat go" (nostarchpress) but for c 
-    * https://github.com/sogonsec/ori
 
 * write a command and control client and server in C and python, possibly with a with an irc/slack/discord bot(s)?! 
+    * https://github.com/sogonsec/ori
+
 
 * write N-day exploits, not for all that sweet N-day glory but to figure out the problem and write it, should be a good learning experience
 
