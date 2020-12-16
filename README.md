@@ -20,9 +20,9 @@ This repo is a main place to keep track of things I want to work on and store in
     * learning to shut up and listen and actually learn things from other humans
     * buffer overflows
     * reverse engineering with ghidra
-    * reverse engineering and binary exploitation with radare2
+    * reverse engineering and binary exploitation with rizin
     * using gef+gdb
-    * writing scripts for radare2
+    * writing scripts for rizin
     * teaching how to hack into machines
     * teaching how to hack into AD
     * teaching how to hack into AWS
